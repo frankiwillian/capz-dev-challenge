@@ -50,7 +50,6 @@ const search = (req, res) => {
         );
     });
 
-    // Normalização dos dados
     const resultadosNormalizados = {
         equipamentos: resultadosEquipamentos.map(equipment => {
             return {
