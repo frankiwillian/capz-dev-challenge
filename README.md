@@ -40,7 +40,7 @@ index.js: Ponto de entrada da aplicação.
    ```
   Exemplo de Resposta:
   ```json
-         {
+    {
       "resultados": [
         {
           "tipo": "Equipamento",
